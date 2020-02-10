@@ -6,3 +6,10 @@ This is the first line
 | --- | --- |
 | entry 1 | entry 2 |
 | entry 1.1 | entry 2.1 |
+
+### SOFTWARE
+
+||| HQ | Type |
+| --- | --- | --- | --- |
+| Office Suite | MS Office | USA | Proprietary |
+|| LibreOffice | USA | FOSS |
