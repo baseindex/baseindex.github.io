@@ -1,8 +1,8 @@
 ### SOFTWARE
 
-| Type || HQ | Licence | OS |
+| Type | Name | HQ | Licence | OS |
 | :---: | :---: | :---: | :---: | :---: |
-| Office Suite | MS Office | USA | Proprietary ||
+| Office Suite | MS Office | USA | Proprietary | Windows, macOS |
 || LibreOffice | USA | FOSS ||
 | Browser | Firefox | USA | FOSS ||
 ||Chrome | USA | Freeware ||
