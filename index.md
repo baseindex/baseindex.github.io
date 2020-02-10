@@ -22,3 +22,15 @@
 || Flipkart (Walmart) | USA / India |
 | Music | Amazon Music | USA |
 || Spotify | USA |
+
+### HARDWARE
+
+|| Offices | Manufacturing & Assembly |
+| :---: | :---: | :---: |
+| Dell | USA | USA, Ireland, Brazil, China |
+| Apple | USA | USA, China |
+| HP | USA ||
+| Asus | ⚠ Taiwan ||
+| Acer | ⚠ Taiwan ||
+
+				
