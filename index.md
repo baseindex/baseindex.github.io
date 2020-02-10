@@ -2,9 +2,9 @@
 
 | Type | Name | HQ | Licence | OS |
 | :---: | :---: | :---: | :---: | :---: |
-| Office Suite | LibreOffice | USA | [MPL2](https://www.libreoffice.org/about-us/licenses) ||
-|| Apache OpenOffice | USA | FOSS ||
-|| MS Office | USA | Proprietary | Windows, macOS |
+| Office Suite | [LibreOffice](https://www.libreoffice.org/) | USA | [MPL2](https://www.libreoffice.org/about-us/licenses) ||
+|| [Apache OpenOffice](https://www.openoffice.org/) | USA | FOSS ||
+|| Microsoft Office | USA | Proprietary | Windows, macOS |
 | Browser | Firefox | USA | FOSS ||
 ||Chrome | USA | Freeware ||
 | File Archiver | 7z || [LGPLv2.1+](https://www.7-zip.org/license.txt) | Windows, Linux, macOS |
@@ -12,7 +12,7 @@
 | Video | VLC | France | FOSS ||
 || MPC-HC | Community Driven | FOSS ||
 | Text / Code Editor | Notepad++ || GPLv2 | Windows |
-|| Atom ||| Windows, Linux, macOS |
+|| [Atom](https://atom.io/) ||| Windows, Linux, macOS |
 | PDF Reader | Adobe Reader ||||
 
 ### WEB STORES / SERVICES
