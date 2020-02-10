@@ -1,15 +1,13 @@
-## Hello
-
-This is the first line
-
-| header 1 | header 2 |
-| --- | --- |
-| entry 1 | entry 2 |
-| entry 1.1 | entry 2.1 |
-
 ### SOFTWARE
 
 ||| HQ | Type |
 | --- | --- | --- | --- |
 | Office Suite | MS Office | USA | Proprietary |
 || LibreOffice | USA | FOSS |
+| Browser | Firefox | USA | FOSS |
+||Chrome | USA | Freeware |
+| Compression | 7z |||
+| Video | VLC | France | FOSS |
+|| MPC-HC | Community Driven | FOSS |
+| Notepad | Notepad++ |||
+| PDF Reader | Adobe Reader |||
