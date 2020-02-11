@@ -5,7 +5,8 @@
 | Office Suite | [LibreOffice](https://www.libreoffice.org/) | USA | [MPL2](https://www.libreoffice.org/about-us/licenses) ||
 || [Apache OpenOffice](https://www.openoffice.org/) | USA | [Apache License 2.0](https://www.openoffice.org/license.html) ||
 || Microsoft Office | USA | Proprietary | Windows, macOS |
-| Browser | Firefox | USA | FOSS ||
+| Browser | Firefox | USA | [MPL2](https://www.mozilla.org/en-US/MPL/2.0/) ||
+|| [Brave](https://brave.com/) || [MPL2](https://github.com/brave/brave-browser/blob/master/LICENSE) ||
 ||Chrome | USA | Freeware ||
 | File Archiver | 7z || [LGPLv2.1+](https://www.7-zip.org/license.txt) | Windows, Linux, macOS |
 || PeaZip || LGPLv3 ||
