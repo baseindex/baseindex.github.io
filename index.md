@@ -3,7 +3,7 @@
 | Type | Name | HQ | Licence | OS |
 | :---: | :---: | :---: | :---: | :---: |
 | Office Suite | [LibreOffice](https://www.libreoffice.org/) | USA | [MPL2](https://www.libreoffice.org/about-us/licenses) ||
-|| [Apache OpenOffice](https://www.openoffice.org/) | USA | Apache License 2.0 ||
+|| [Apache OpenOffice](https://www.openoffice.org/) | USA | [Apache License 2.0](https://www.openoffice.org/license.html) ||
 || Microsoft Office | USA | Proprietary | Windows, macOS |
 | Browser | Firefox | USA | FOSS ||
 ||Chrome | USA | Freeware ||
