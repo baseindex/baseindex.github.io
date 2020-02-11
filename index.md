@@ -13,6 +13,7 @@
 || MPC-HC | Community Driven | FOSS ||
 | Text / Code Editor | Notepad++ || GPLv2 | Windows |
 || [Atom](https://atom.io/) ||| Windows, Linux, macOS |
+|| VS Code || [MIT, Freeware](https://code.visualstudio.com/License/) | Windows, Linux, macOS |
 | PDF Reader | Adobe Reader ||||
 
 ### WEB STORES / SERVICES
